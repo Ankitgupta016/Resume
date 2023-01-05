@@ -1,0 +1,138 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script|Ubuntu|Roboto:400,700);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+li {
+  list-style: none;
+}
+
+.container-sm {
+  display: flex;
+}
+
+.img {
+
+  border: 1px solid rgb(150, 245, 7);
+  max-width: 180px;
+  max-height: 180px;
+  border-radius: 50%;
+  margin-bottom: -10px;
+  background-color:crimson;
+}
+
+.about {
+  margin-top: -16px;
+}
+
+.about h1 {
+  font-size: 2.7em;
+  text-shadow: 0px 4px 3px rgba(249, 231, 231, 0.4), 0px 8px 13px rgba(90, 84, 84, 0.5), 0px 18px 23px rgba(69, 66, 66, 0.1);
+  margin-left: 10px;
+  letter-spacing: 8px;
+  font-weight: bold;
+
+}
+
+.about p {
+  letter-spacing: 3px;
+  font-size: 2.7em;
+  text-shadow: 0px 4px 3px rgba(249, 231, 231, 0.4), 0px 8px 13px rgba(90, 84, 84, 0.5), 0px 18px 23px rgba(69, 66, 66, 0.1);
+  font-size: 1.5em;
+  text-align: justify;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+#white-bg {
+
+  display: inline-block;
+  vertical-align: middle;
+  padding: 6% 2%;
+}
+
+.contact p {
+
+  text-align: center;
+  margin-top: 5px;
+  padding: 0 7px;
+  font-weight: 650;
+  margin-bottom: 5px !important;
+
+}
+
+.a {
+  color: white;
+  color: white;
+  padding: 5px;
+  margin-left: 24px;
+}
+
+.a i {
+
+  font-size: 25px;
+  margin: auto;
+}
+
+.profile h2 {
+  margin-left: 40px;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+    0px 8px 13px rgba(0, 0, 0, 0.5),
+    0px 18px 23px rgba(0, 0, 0, 0.1);
+  font-weight: bold;
+}
+
+.summary p {
+  margin-left: 47px;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 601;
+}
+
+.hr {
+  width: 112px;
+  margin-left: 32px;
+  height: 5px;
+  border: 2px solid #50ed09;
+  margin-top: -7px;
+  opacity: 1;
+  background: red;
+}
+
+.progres {
+  width: 60%;
+  margin: 10px auto;
+  position: relative;
+  top: 3px;
+}
+
+.hr2 {
+  width: 163px;
+}
+
+.hr3 {
+  width: 235px;
+}
+.rating{
+  width: 10px;
+border: 2px solid red;
+height: 10px;
+border-radius: 50%;
+background: black;
+opacity: 1;
+display: block;
+
+}
+.ratings{
+  width: 10px;
+  border: 2px solid red;
+  height: 10px;
+  border-radius: 50%;
+  background:none;
+  opacity: 1;
+  display: block;
+}
