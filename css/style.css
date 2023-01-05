@@ -12,6 +12,9 @@ li {
   list-style: none;
 }
 
+a:hover {
+  color: white;
+}
 .container-sm {
   display: flex;
 }
