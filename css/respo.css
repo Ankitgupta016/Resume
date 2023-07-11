@@ -65,6 +65,12 @@
     width: 217px;
     margin-left: 2px;
   }
+  .hr4{
+    width: 255px !important;
+  }
+  .hr5 {
+    width: 369px !important;
+  }
 }
 
 @media screen and (max-width: 745px) {
@@ -155,6 +161,12 @@
   .hr3 {
     width: 191px;
   }
+  .secondary{
+    flex-direction: column !important;
+  }
+  .hr5 {
+    width: 328px !important;
+  }
 }
 
 @media screen and (max-width:454px) {
@@ -221,6 +233,15 @@
     margin-top: 5px;
     padding: 0 7px;
     font-weight: 650;
+  }
+  .hr4{
+    width: 245px;
+  }
+  .hr5 {
+    width: 317px !important;
+  }
+  .sales{
+    margin-left: 5px !important;
   }
 }
 
