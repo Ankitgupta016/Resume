@@ -123,10 +123,10 @@ a:hover {
   width: 235px;
 }
 .hr4{
-  width: 324px;
+  width: 324px !important;
 }
 .hr5 {
-  width: 411px;
+  width: 411px !important;
 }
 /* .sales{
   margin-left: 2px !important;
